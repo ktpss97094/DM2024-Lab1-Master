@@ -3396,8 +3396,8 @@ dwyer:21
 dwyer	2000:10
 theist:21
 entire:21
-entire	dan:9
 entire	wasn:9
+entire	dan:9
 earlier:21
 dan:21
 lie:21

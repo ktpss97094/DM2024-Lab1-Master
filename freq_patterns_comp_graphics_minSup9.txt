@@ -31931,6 +31931,14 @@ concerning	feel:12
 personally	concerning	feel:12
 proposed	concerning	feel:12
 personally	proposed	concerning	feel:12
+concerning	tdawson:12
+concerning	tdawson	feel:11
+personally	concerning	tdawson	feel:11
+proposed	concerning	tdawson	feel:11
+personally	proposed	concerning	tdawson	feel:11
+concerning	tdawson	personally:12
+concerning	tdawson	proposed:12
+personally	concerning	tdawson	proposed:12
 concerning	forum:12
 concerning	forum	tdawson:11
 personally	concerning	forum	tdawson:11
@@ -31979,14 +31987,6 @@ personally	proposed	concerning	learn	forum:12
 personally	feel	concerning	learn	forum:12
 proposed	feel	concerning	learn	forum:12
 personally	proposed	feel	concerning	learn	forum:12
-concerning	tdawson:12
-concerning	tdawson	feel:11
-personally	concerning	tdawson	feel:11
-proposed	concerning	tdawson	feel:11
-personally	proposed	concerning	tdawson	feel:11
-concerning	tdawson	personally:12
-concerning	tdawson	proposed:12
-personally	concerning	tdawson	proposed:12
 concerning	personally:13
 concerning	proposed:13
 personally	concerning	proposed:13
