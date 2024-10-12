@@ -8572,6 +8572,8 @@ table:12
 risks:12
 steroid:12
 eau:12
+eau	wisconsin:11
+claire	eau	wisconsin:11
 eau	absurd:11
 eau	absurd	wisconsin:10
 claire	eau	absurd	wisconsin:10
@@ -8600,8 +8602,6 @@ eau	wishes	patently:11
 claire	eau	wishes	patently:11
 absurd	eau	wishes	patently:11
 claire	absurd	eau	wishes	patently:11
-eau	wisconsin:11
-claire	eau	wisconsin:11
 eau	claire:12
 philosopher:12
 philosopher	wisconsin:10
@@ -9153,9 +9153,9 @@ chips:13
 chips	guest:9
 chocolate:13
 chocolate	guest:9
-chocolate	action:9
 chocolate	chips:9
 chocolate	chips	guest:9
+chocolate	action:9
 benefit:13
 island:13
 significantly:13
@@ -9418,9 +9418,9 @@ online	9760	241:11
 408	online	9760	241:11
 guest	online	9760	241:11
 408	guest	online	9760	241:11
+online	communications:12
 online	408:12
 online	408	communications:10
-online	communications:12
 activity:15
 allow:15
 wonder:15
@@ -9494,10 +9494,10 @@ doubt:16
 insurance:16
 grief:16
 international:16
+international	guest:9
 international	means:9
 international	communications:9
 means	international	communications:9
-international	guest:9
 international	action:9
 professional:16
 1993apr19:16

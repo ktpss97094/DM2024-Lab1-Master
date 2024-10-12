@@ -2670,8 +2670,8 @@ type:14
 basic:14
 absolutely:14
 effort:14
-effort	dan:9
 effort	became:9
+effort	dan:9
 definitions:15
 knowing:15
 shows:15
@@ -3331,8 +3331,8 @@ allow	supposed:9
 whose:20
 local:20
 proof:20
-proof	ones:9
 proof	nor:9
+proof	ones:9
 meant:20
 gave:20
 marriage:20
@@ -3401,8 +3401,8 @@ entire	dan:9
 earlier:21
 dan:21
 lie:21
-lie	alone:9
 lie	entire:9
+lie	alone:9
 lie	wasn:10
 respect:21
 beaverton:21
